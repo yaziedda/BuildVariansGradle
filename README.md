@@ -30,7 +30,7 @@ productFlavors {
 
 You must create folder beta and paid in folder app and file you will change by build type varians must same name, see the structure :
 
-link : https://developer.android.com/studio/build/build-variants.html
+see more : https://developer.android.com/studio/build/build-variants.html
 
 ```
 app
