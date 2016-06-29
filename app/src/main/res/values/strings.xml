@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dizzay PROD</string>
+    <string name="app_hello">App version is PROD</string>
+</resources>
